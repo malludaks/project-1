@@ -13,5 +13,8 @@ pip install -r requirements.txt
 python server.py
 
 To run the Gradebot test client: python gradebot.py
+![jwks gradebolt](https://github.com/user-attachments/assets/9e39bda0-94be-4266-8032-fce46cfc527d)
+
 Coverage run -m unittest discover
 coverage report
+![jwks coverage](https://github.com/user-attachments/assets/86549fac-5a50-4c6c-aa21-fd2b4498add2)
